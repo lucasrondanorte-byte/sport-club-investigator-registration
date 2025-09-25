@@ -1,0 +1,5 @@
+{
+  "name": "Sport Club Investigator Registration",
+  "description": "A web form for new investigators to register their interest in different Sport Club locations. The form data is submitted to a Google Sheet, and a personalized welcome message is generated using the Gemini API.",
+  "requestFramePermissions": []
+}
